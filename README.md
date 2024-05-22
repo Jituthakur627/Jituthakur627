@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src="https://github.com/Jituthakur627/Jitu-Thakur/blob/main/Github%20Banner.png.jpg">
+<!-- <img src="https://github.com/Jituthakur627/Jitu-Thakur/blob/main/Github%20Banner.png.jpg"> -->
 <h1 align="center">Hi 👋, I'm Jitu-Thakur</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
